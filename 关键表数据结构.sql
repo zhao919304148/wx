@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         :github修改
+Source Server         : idea本地开发修改
 Source Server Version : 50637
 Source Host           : 10.37.251.224:3310
 Source Database       : qdp_oasis
@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50636
 File Encoding         : 65001
 
-Date: 2018-07-17 10:43:00
+Date: 2018-07-17  10:51:41
 */
 
 SET FOREIGN_KEY_CHECKS=0;
