@@ -13,7 +13,7 @@ Date: 2018-07-17  10:51:41
 */
 我只在本地dev分支编写文字，我进行本地合并到主分支，并且推送到远程master
 SET FOREIGN_KEY_CHECKS=0;
-
+等待撤回
 -- ----------------------------
 -- Table structure for oas_account_odd
 -- ----------------------------
