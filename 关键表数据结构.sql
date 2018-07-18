@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : idea本地开发修改
+Source Server         : idea本地dev分支开发修改
 Source Server Version : 50637
 Source Host           : 10.37.251.224:3310
 Source Database       : qdp_oasis
