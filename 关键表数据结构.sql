@@ -1,5 +1,5 @@
 /*
-Navicat MySQL Data Transfer zs
+Navicat MySQL Data Transfer
 
 Source Server         : idea本地test_`1分支
 Source Server Version : 50637
