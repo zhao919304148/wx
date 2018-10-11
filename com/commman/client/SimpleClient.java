@@ -15,7 +15,7 @@ import com.sys.exception.EpiccException;
 /**
  * 客户端调用接口方法
  * @author  
- * @version 2.0
+ * @version 1.0
  */
 public class SimpleClient {	
 	static Logger logger = Logger.getLogger(SimpleClient.class);
