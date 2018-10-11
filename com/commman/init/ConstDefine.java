@@ -83,7 +83,7 @@ public final class ConstDefine
 	   public static final String ERRMSG_PACKERR = "打包错误";
 	   
 	   public static final String ERRCODE_UNPACKERR = "9901";
-	   public static final String ERRMSG_UNPACKERR = "解包错误";
+	   public static final String ERRMSG_UNPACKERR = "解包错误了";
 
 	   public static final String ERRCODE_TRADEEXCEPT = "9902";
 	   public static final String ERRMSG_TRADEEXCEPT = "交易处理异常";
