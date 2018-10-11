@@ -11,7 +11,7 @@ import com.commman.trademanager.pub.TradeManager;
 
 /**
  * 打包交易头文件
- * @author liuwei 等候哦
+ * @author liuwei
  *
  */
 public class PackHeadService {
