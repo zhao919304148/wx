@@ -33,6 +33,19 @@ public class SysDicHelper {
 	@Autowired(required = false)
 	private static  IBaseService baseService = null;
 
+    private static List<DicContentEntity> sysDicList = new ArrayList<DicContentEntity>(); //系统级字典
+    
+    private static List<PictureEntity> pList = new ArrayList<PictureEntity>();//图片集
+    //private static List<NetWorkEntity> ntwList = new ArrayList<NetWorkEntity>();
+    private static List<BrandEntity> brandList = new ArrayList<BrandEntity>();
+    private static List<CrsBrandEntity> crsBrandList = new ArrayList<CrsBrandEntity>();
+    private static List<CrsModelEntity> crsModelList = new ArrayList<CrsModelEntity>();
+    private static HashMap<String,ArrayList<DicContentEntity>> dbhashEntity= new HashMap<String,ArrayList<DicContentEntity>>();
+    private static List<Map<String,String>> backreasonMap = new ArrayList<Map<String,String>>();
+    private static ApplicationContext ctx = null ;
+    private static Map<String,String> pangdaGoods = new HashMap<String,String>();//庞大礼品
+    private static Map<String,String> kaladingGoods = new HashMap<String,String>();//卡拉丁礼品
+    private static Map<String,String> luodiGoods = new HashMap<String,String>();//落地系统
     /**redis中微信常量**/
     private static Map<String,Object> redisWxMap = new HashMap<String,Object>();
 	/**
