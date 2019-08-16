@@ -1,15 +1,13 @@
 /*
 Navicat MySQL Data Transfer 修改文档
 
-Source Server         : idea本地test_`1分支
 Source Server Version : 50637
 Source Host           : 10.37.251.224:3310
 Source Database       : qdp_oasis
-
 Target Server Type    : MYSQL
 Target Server Version : 50636
 File Encoding         : 65001
-
+加一行
 Date: 2018-07-17  10:51:41
 */
 
