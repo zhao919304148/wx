@@ -1,7 +1,6 @@
 /*
-Navicat MySQL Data Transfer
+Navicat MySQL Data Transfer 修改文档
 
-Source Server         : idea本地dev分支合并测试开发修改
 Source Server Version : 50637
 Source Host           : 10.37.251.224:3310
 Source Database       : qdp_oasis
@@ -11,7 +10,7 @@ File Encoding         : 65001
 加一行
 Date: 2018-07-17  10:51:41
 */
-我只在本地dev分支编写文字，我进行本地合并到主分支，并且推送到远程master
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
@@ -605,3 +604,5 @@ CREATE TABLE `oas_request_identify` (
   PRIMARY KEY (`id`),
   KEY `idx_request_id` (`request_id`) USING BTREE
 ) ENGINE=InnoDB AUTO_INCREMENT=1000011 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='请求参数标识表';
+
+test分支 插入 11.30
